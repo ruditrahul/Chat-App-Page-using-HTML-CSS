@@ -1,0 +1,121 @@
+/*----------Body-------------*/
+body {
+  background-color: #d0d0d0;
+
+  font-family: 'Ubuntu', sans-serif;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*------------Centre-Img--------*/
+.centre-img {
+  padding: 7% 3.5% 0;
+  font-size: 50%;
+}
+
+.top {
+  padding: 5px;
+  line-height: 0.05px;
+  color: black;
+}
+
+.IphoneX {
+  position: absolute;
+  z-index: -1;
+  width: 37%;
+  left: 38%;
+}
+
+.content {
+  line-height: 1;
+  margin: 0 22%;
+  padding: 10px 5px;
+}
+
+.client-img {
+  width: 12%;
+  border-radius: 100%;
+  position: relative;
+  left: 100px;
+  top: 30px;
+}
+
+.name {
+  position: relative;
+  left: 150px;
+  font-size: 10px;
+  top: 5px;
+}
+
+.chats {
+  margin-left: 100px;
+}
+
+.first-msg {
+  font-size: 80%;
+  text-align: left;
+  padding-right: 20%;
+}
+
+.second-msg {
+  font-size: 80%;
+  text-align: left;
+  padding-right: 10%;
+  margin-right: 20%;
+  margin-top: 10px;
+}
+
+.third-msg {
+  font-size: 20%;
+  text-align: left;
+  margin-left: 60px;
+  margin-top: 10px;
+  margin-right: 15px;
+}
+
+.dog {
+  margin-left: 110px;
+}
+
+.dog-image {
+  border-radius: 90%;
+  width: 25%;
+  margin-top: 10px;
+  margin-right:1px;
+}
+
+.end {
+  margin-top: 15px;
+  padding-right: 12px;
+}
+
+b {
+  font-size: 100%;
+}
+
+.form-control {
+font-size: 13px;
+}
+
+/*----------Centre-Msg----------*/
+.centre-msg {
+  padding: 15% 10%;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 45px;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+hr {
+  width: 200px;
+  position: relative;
+  left:45px;
+
+
+}
